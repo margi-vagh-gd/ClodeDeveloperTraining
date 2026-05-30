@@ -1,7 +1,18 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "vaghs pioneering chinchilla",
+      "Alias": "vaghs-pioneering-chinchilla",
+      "Id": "32ef56c4-eaf1-4323-93f7-6902e720310b",
+      "TrialExpireDate": "2026-06-13T08:45:04.0000000",
+      "Workspaces": [
+        {
+          "Id": "e90fb4e0-b1ca-4659-8e9c-98775f438e73",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://vaghs-pioneering-chinchilla.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
